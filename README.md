@@ -9,10 +9,8 @@ For hashing password using *bcryptjs* library. For token generation used *JWT*.
 
 ```
 npm start
-
 ```
 ```
 npm dev
-
 ```
 Last one starting with nodemon.
