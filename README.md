@@ -8,9 +8,9 @@ For hashing password using *bcryptjs* library. For token generation used *JWT*.
 ### Run server
 
 ```
-npm start
+npm run start
 ```
 ```
-npm dev
+npm run dev
 ```
 Last one starting with nodemon.
